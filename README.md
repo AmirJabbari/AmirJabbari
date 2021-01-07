@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Android & Flutter
+- 🔭 I’m currently working with Android & Flutter
 - 🌱 I’m currently learning Java
 - 📫 How to reach me: me@amjabbari.ir
 - ⚡ Fun fact: i Am Senior developer :)
