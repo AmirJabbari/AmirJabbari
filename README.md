@@ -3,7 +3,7 @@
 - 🔭 I’m currently working with Android & Flutter
 - 🌱 I’m currently learning Java
 - 📫 How to reach me: me@amjabbari.ir
-- ⚡ Fun fact: i Am Senior developer :)
+
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AmirJabbari)](https://github.com/anuraghazra/github-readme-stats)
