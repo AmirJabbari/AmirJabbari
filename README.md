@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working with Android & Flutter
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Flutter
 - 📫 How to reach me: me@amjabbari.ir
 
 
